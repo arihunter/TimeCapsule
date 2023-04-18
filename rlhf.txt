@@ -1,0 +1,1 @@
+1. Adding RLHF , requires a mechanism to generate scores. So first while onboarding we require to generate a very good model of users/aligned with users goals inherent text rating mechanism. To generate a reward giving model and this models outputs will work as ground truth. 
